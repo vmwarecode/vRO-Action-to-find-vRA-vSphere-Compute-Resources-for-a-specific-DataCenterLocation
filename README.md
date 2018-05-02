@@ -1,0 +1,1 @@
+# vRO-Action-to-find-vRA-vSphere-Compute-Resources-for-a-specific-DataCenterLocation
